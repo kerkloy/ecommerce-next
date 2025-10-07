@@ -9,8 +9,8 @@ export function BackgroundBoxesDemo() {
       <div className="absolute inset-0 w-full h-full bg-slate-900 z-20 [mask-image:radial-gradient(transparent,white)] pointer-events-none" />
 
       <Boxes />
-      <h1 className={cn("md:text-6xl text-xl text-white relative z-20 " )}>
-        Task Management System
+      <h1 className={cn("md:text-6xl text-xl text-white text-center relative z-20 " )}>
+        Inventory Management System
       </h1>
       <p className="text-center mt-2 text-neutral-300 relative z-20">
         Streamline your workflow and boost productivity with our intuitive task
